@@ -2,7 +2,8 @@
 title: Ré:重置个人Github Pages
 date: 2024-08-04 16:31:56
 updateDate: 2024-08-06T07:32:00
-tags: null
+tags:
+  - 个人纪录
 ---
 一件好笑的事：我由于重装了系统，把原先的 Hexo 博客文件夹搞炸了。
 

@@ -1,11 +1,11 @@
 backend:
   name: github
-  repo: # repo name
-  branch: main # Branch to update (optional; defaults to master)
+  repo: ZhouZiyuIan/Blog # repo name
+  branch: master # Branch to update (optional; defaults to master)
 
 
-site_url: https://shwst.one
-display_url: https://shwst.one
+site_url: https://fkzblog.netlify.app/
+display_url: https://fkzblog.netlify.app/
 # logo_url: https://shwst.one/images/
 locale: 'cn'
 

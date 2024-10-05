@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ZhouZiyuIan/ZhouZiyuIan.github.io # repo name
+  repo: ZhouZiyuIan/Blog # repo name
   branch: main # Branch to update (optional; defaults to master)
 
 

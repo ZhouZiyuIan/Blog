@@ -662,7 +662,7 @@ canvas_ribbon:
 # See: https://theme-next.js.org/docs/third-party-services/comments
 # ---------------------------------------------------------------
 giscus:
-  enable: true
+  enable: false
   repo: ZhouZiyuIan/pan # Github repository name
   repo_id: R_kgDOHXzJEw # Github repository id
   category: Announcements # Github discussion category
@@ -736,12 +736,12 @@ livere_uid: # <your_uid>
 # Gitalk
 # For more information: https://gitalk.github.io
 gitalk:
-  enable: false
-  github_id: # GitHub repo owner
-  repo: # Repository name to store issues
-  client_id: # GitHub Application Client ID
-  client_secret: # GitHub Application Client Secret
-  admin_user: # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
+  enable: true
+  github_id: ZhouZiyuIan# GitHub repo owner
+  repo: pan# Repository name to store issues
+  client_id: Ov23lislWXkms7OG2mTh # GitHub Application Client ID
+  client_secret: 97afee8c0168cc9c79c431216d4a8074212a2679 # GitHub Application Client Secret
+  admin_user: ZhouZiyuIan # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # When the official proxy is not available, you can change it to your own proxy address
   proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # This is official proxy address

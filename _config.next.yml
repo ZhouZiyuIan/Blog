@@ -662,7 +662,7 @@ canvas_ribbon:
 # See: https://theme-next.js.org/docs/third-party-services/comments
 # ---------------------------------------------------------------
 giscus:
-  enable: false
+  enable: true
   repo: ZhouZiyuIan/pan # Github repository name
   repo_id: R_kgDOHXzJEw # Github repository id
   category: Announcements # Github discussion category
@@ -736,7 +736,7 @@ livere_uid: # <your_uid>
 # Gitalk
 # For more information: https://gitalk.github.io
 gitalk:
-  enable: true
+  enable: false
   github_id: ZhouZiyuIan# GitHub repo owner
   repo: pan# Repository name to store issues
   client_id: Ov23lislWXkms7OG2mTh # GitHub Application Client ID

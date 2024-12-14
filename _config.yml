@@ -108,3 +108,15 @@ deploy:
   type: git
   repo: git@github.com:ZhouZiyuIan/ZhouZiyuIan.github.io
   branch: main
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  autodiscovery: true
+  template:

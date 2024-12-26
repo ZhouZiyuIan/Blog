@@ -166,7 +166,7 @@ social:
   #YouTube: https://youtube.com/yourname || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
-  Luogu: https://www.luogu.com.cn/user/744966 || fab fa-user
+  Luogu: https://www.luogu.com.cn/user/744966 || fa fa-user
 
 social_icons:
   enable: true
